@@ -3,7 +3,6 @@ hello
 
 world!!
 
-CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
 
 How does it work?
 I am confused!!
